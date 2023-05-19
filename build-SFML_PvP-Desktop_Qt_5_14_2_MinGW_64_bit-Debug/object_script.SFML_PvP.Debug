@@ -1,0 +1,10 @@
+debug/main.o
+debug/Creature.o
+debug/Grid.o
+debug/Predator.o
+debug/Prey.o
+debug/Wall.o
+debug/system.o
+debug/random.o
+debug/sidebar.o
+debug/animate.o

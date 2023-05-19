@@ -1,0 +1,10 @@
+release/main.o
+release/Creature.o
+release/Grid.o
+release/Predator.o
+release/Prey.o
+release/Wall.o
+release/system.o
+release/random.o
+release/sidebar.o
+release/animate.o
